@@ -8,6 +8,8 @@ Add Tasks: Quickly add new tasks to the list with ease.
 Edit Tasks: Update tasks to reflect changes.
 Delete Tasks: Remove tasks once completed.
 Persistent Storage: Uses local storage to retain tasks even after refreshing the page.
+
+
 #Technologies
 
 HTML: Structuring the layout.
